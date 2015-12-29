@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# Tinkering Workshop
 
 
 <!--
@@ -20,6 +20,24 @@
   -->
 
 [About](pages/about.md)
+
+[워크숍&키트]()
+
+  * # 공작으로 탐험하기 Craft+Make
+  * [구슬 오뚝이](pages/subitem1.md)
+  * [숲속의 동물친구들](pages/subitem2.md)
+  * [풍선 비행체](pages/subitem2.md)
+  * [암호로 말하기](pages/subitem2.md)
+  - - - -
+  * # 전기와 놀기 Electric+
+  * [도통 몬스터](pages/subitem3.md)
+  * [심플DC모터](pages/subitem3.md)
+  * [도리도리 전기](pages/subitem3.md)
+  - - - -
+  * # 컴퓨팅 이야기 SW/HW Computing
+  * [청개구리 헤르츠군](pages/subitem3.md)
+  * [다른 언어 드로잉](pages/subitem3.md)  
+  
 [Download](pages/download.md)
 
 <!-- A more complex navigation example: ----------------------------------------
