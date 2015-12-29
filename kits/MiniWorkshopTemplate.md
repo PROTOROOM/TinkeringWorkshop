@@ -4,7 +4,7 @@
 
 ## 이미지 Image
 워크숍의 모습이나 결과물의 형태를 설명해줄 수 있는 스케치 혹은 이미지를 하나 넣어주세요.
-![Sketch Image](/images/blank.png)
+![Sketch Image](TinkeringWorkshop/images/blank.png)
 
 
 ## 스토리 Story
