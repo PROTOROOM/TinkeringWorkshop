@@ -35,8 +35,8 @@
   * [도리도리 전기](pages/subitem3.md)
   - - - -
   * # 컴퓨팅 이야기 SW/HW Computing
-  * [청개구리 헤르츠군](pages/subitem3.md)
-  * [다른 언어 드로잉](pages/subitem3.md)  
+  * [청개구리 헤르츠군](kits/green_frog_bird.md)
+  * [다른 언어 드로잉](kits/MiniWorkshopTemplate.md)  
   
 [Download](pages/download.md)
 
