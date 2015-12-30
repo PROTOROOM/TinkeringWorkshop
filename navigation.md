@@ -19,7 +19,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](pages/about.md)
+[About](README.md)
 
 [워크숍&키트]()
 
