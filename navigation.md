@@ -27,7 +27,6 @@
   * [구슬 오뚝이](pages/subitem1.md)
   * [숲속의 동물친구들](pages/subitem2.md)
   * [풍선 비행체](pages/subitem2.md)
-  * [암호로 말하기](pages/subitem2.md)
   - - - -
   * # 전기와 놀기 Electric+
   * [도통 몬스터](pages/subitem3.md)
@@ -35,6 +34,7 @@
   * [도리도리 전기](pages/subitem3.md)
   - - - -
   * # 컴퓨팅 이야기 SW/HW Computing
+  * [암호로 말하기](pages/subitem2.md)
   * [청개구리 헤르츠군](kits/green_frog_bird.md)
   * [다른 언어 드로잉](kits/MiniWorkshopTemplate.md)  
   
