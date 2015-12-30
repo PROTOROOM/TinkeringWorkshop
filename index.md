@@ -1,13 +1,12 @@
-# It works! ;-)
+#### 팅커링워크숍은 국립과천과학관 **키즈 메이커 스튜디오(Kids Maker Studio)의 미디어 워크숍**입니다. 
+자세한 내용은 먼저 [README](README.md) 페이지를 읽어주세요.
 
 
-## Section 1
+![](http://placekitten.com/g/1200/300 "A kitten")
 
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Sed posuere consectetur est at lobortis.
+![](http://placekitten.com/g/550/450 "First of two kittens")
+![](http://placekitten.com/g/550/450 "Second of two kittens")
 
-
-## Section 2
-
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Donec ullamcorper nulla non metus auctor fringilla. Cras mattis consectetur purus sit amet fermentum. Donec ullamcorper nulla non metus auctor fringilla. Cras justo odio, dapibus ac facilisis in, egestas eget quam.
-
-Vestibulum id ligula porta felis euismod semper. Maecenas faucibus mollis interdum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante venenatis dapibus posuere velit aliquet.
+![](http://placekitten.com/g/400/350)
+![](http://placekitten.com/g/400/350)
+![](http://placekitten.com/g/400/350)
