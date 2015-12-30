@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](spacelab)
+[gimmick:theme](flatly)
 
 
 <!--
@@ -20,6 +20,10 @@
   -->
 
 [README](README.md)
+
+[프레임워크](pages/framework.md)
+
+[워크숍패턴](pages/patterns.md)  
 
 [워크숍&키트]()
 
@@ -37,8 +41,8 @@
   * [암호로 말해요](kits/MiniWorkshopTemplate.md)
   * [청개구리 헤르츠군](kits/green_frog_bird.md)
   * [다른 언어 드로잉](kits/MiniWorkshopTemplate.md)  
-  
-[Download](pages/download.md)
+
+[라이선스](pages/license.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
