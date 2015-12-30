@@ -7,6 +7,6 @@
  * 팅커링워크숍을 개발한 PROTOROOM( http://protoroom.kr )은 기술기반 매체를 기반으로 창작하고 교육하는 팀입니다.
 
 ## 이 저장소는
- * 팅커링워크숍의 연구 과정과 결과물은 Github의 저장소에 관리 및 공개되고 있습니다. 
+ * 팅커링워크숍의 연구 과정과 결과물은 Github의 저장소에서 관리 및 공개되고 있습니다. 
  * 이 저장소의 콘텐츠는 http://protoroom.github.io/TinkeringWorkshop 을 통해 웹으로 접근할 수 있습니다.
 

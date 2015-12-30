@@ -19,22 +19,22 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[About](README.md)
+[README](README.md)
 
 [워크숍&키트]()
 
-  * # 공작으로 탐험하기 Craft+Make
-  * [구슬 오뚝이](kits/MiniWorkshopTemplate.md)
+  * # 공작하며 관찰하기 Craft+Make
   * [숲속의 동물친구들](kits/MiniWorkshopTemplate.md)
+  * [구슬 오뚝이](kits/MiniWorkshopTemplate.md)
   * [풍선 비행체](kits/MiniWorkshopTemplate.md)
   - - - -
-  * # 전기와 놀기 Electric+
+  * # 전기와 놀기 Electric+Play
   * [도통 몬스터](kits/MiniWorkshopTemplate.md)
-  * [심플DC모터](kits/MiniWorkshopTemplate.md)
+  * [DC모터애니](kits/MiniWorkshopTemplate.md)
   * [도리도리 전기](kits/MiniWorkshopTemplate.md)
   - - - -
-  * # 컴퓨팅 이야기 SW/HW Computing
-  * [암호로 말하기](kits/MiniWorkshopTemplate.md)
+  * # 컴퓨팅 이야기 SW/HW+Computing
+  * [암호로 말해요](kits/MiniWorkshopTemplate.md)
   * [청개구리 헤르츠군](kits/green_frog_bird.md)
   * [다른 언어 드로잉](kits/MiniWorkshopTemplate.md)  
   
