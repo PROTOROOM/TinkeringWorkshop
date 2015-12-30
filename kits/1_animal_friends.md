@@ -1,9 +1,9 @@
-# 워크숍제목
+# 숲속의 동물친구들
 
 ## 이 워크숍은 About
 ![Sketch Image](images/blank.png)
 
- * 매뉴얼 내려받기 : 
+ * [매뉴얼 내려받기](pdf/1_animal_friends.pdf)
 
 ## 개요 Summary
 워크숍을 설명하는 방식보다는, 워크숍이 진행된다고 생각하고 그 모습을 짧게 묘사해주세요.

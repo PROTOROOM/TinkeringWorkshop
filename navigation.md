@@ -28,19 +28,19 @@
 [워크숍&키트]()
 
   * # 공작하며 관찰하기 Craft+Make
-  * [숲속의 동물친구들](kits/MiniWorkshopTemplate.md)
-  * [구슬 오뚝이](kits/MiniWorkshopTemplate.md)
-  * [풍선 비행체](kits/MiniWorkshopTemplate.md)
+  * [숲속의 동물친구들](kits/1_animal_friends.md)
+  * [구슬 오뚝이](kits/2_roly_poly.md)
+  * [풍선 비행체](kits/3_balloon_rocket.md)
   - - - -
   * # 전기와 놀기 Electric+Play
-  * [도통 몬스터](kits/MiniWorkshopTemplate.md)
-  * [DC모터애니](kits/MiniWorkshopTemplate.md)
-  * [도리도리 전기](kits/MiniWorkshopTemplate.md)
+  * [도통 몬스터](kits/4_dotong_monster.md)
+  * [DC모터애니](kits/5_motor_ani.md)
+  * [도리도리 전기](kits/6_doridori_elec.md)
   - - - -
   * # 컴퓨팅 이야기 SW/HW+Computing
-  * [암호로 말해요](kits/MiniWorkshopTemplate.md)
-  * [청개구리 헤르츠군](kits/green_frog_bird.md)
-  * [다른 언어 드로잉](kits/MiniWorkshopTemplate.md)  
+  * [암호로 말해요](kits/7_weaving_code.md)
+  * [청개구리 헤르츠군](kits/8_green_frog_hertz.md)
+  * [다른 언어 드로잉](kits/9_2langs.md)  
 
 [라이선스](pages/license.md)
 
