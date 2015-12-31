@@ -10,6 +10,7 @@
 
 
 ## 재료 / Materials
+![Material Image](images/weaving_code_m.png)
 
  * 타공 펠트지
  * 펠트지

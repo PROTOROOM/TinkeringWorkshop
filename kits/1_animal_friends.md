@@ -10,6 +10,7 @@
 
 
 ## 재료 / Materials
+![Material Image](images/animal_friends_m.png)
 
  * 동물자
  * 골판지
