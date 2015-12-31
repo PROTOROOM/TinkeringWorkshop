@@ -39,10 +39,14 @@
 ## 워크숍 연구자
 
 #### 연구 책임자 (PROTOROOM)
- * 김승범 SeungBum Kim <picxenk@gmail.com>
- * 후니다 킴 Hoonida Kim <hoonidakim@gmail.com>
+ * 김승범 SeungBum Kim
+ * 후니다 킴 Hoonida Kim 
 
 #### 참여 연구자 (키즈 메이커 스튜디오)
- * 박영희 <pyh0610@naver.com>
- * 김주미 <o_ovzzz@naver.com>
+ * 박영희 
+ * 김주미 
+
+#### 매뉴얼 디자인
+ * 정신재
+ 
 
