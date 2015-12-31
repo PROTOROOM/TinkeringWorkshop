@@ -3,7 +3,7 @@
 ## 이 워크숍은 About
 ![Sketch Image](images/blank.png)
 
- * [매뉴얼 내려받기](pdf/7_weaving_code.pdf) 
+### [매뉴얼 내려받기](pdf/7_weaving_code.pdf) 
 
 ## 개요 Summary
 워크숍을 설명하는 방식보다는, 워크숍이 진행된다고 생각하고 그 모습을 짧게 묘사해주세요.
@@ -33,5 +33,5 @@
 
 
 ## 참고자료 References
-
+ * 공식 페이지 : http://protoroom.github.io/TinkeringWorkshop/#!kits/_.md
 

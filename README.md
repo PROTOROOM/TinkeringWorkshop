@@ -18,7 +18,7 @@
  * **[README](README.md)** : 현재 페이지로 팅커링워크숍 콘텐츠를 담은 저장소의 기본 정보와 구조를 설명합니다.
  * **[프레임워크](pages/framework.md)** : 팅커링워크숍의 개발과정에 대한 프레임워크를 설명합니다.
  * **[워크숍패턴](pages/patterns.md)** : 워크숍 개발과 진행에 사용된 패턴을 설명합니다.
- * **워크솝&키트** : 개발된 워크숍과 키트에 대한 매뉴얼과 추가설명을 확인할 수 있습니다.
+ * **워크숍&키트** : 개발된 워크숍과 키트에 대한 매뉴얼과 추가설명을 확인할 수 있습니다.
  * **[라이선스](pages/license.md)** : 팅커링워크숍의 사용 라이선스를 설명합니다.
 
 
@@ -40,9 +40,9 @@
 
 #### 연구 책임자 (PROTOROOM)
  * 김승범 SeungBum Kim <picxenk@gmail.com>
- * 후니다 킴 Hoonida Kim <hoonida@gmail.com>
+ * 후니다 킴 Hoonida Kim <hoonidakim@gmail.com>
 
-#### 참여 연구자 (무한상상실 뚝딱공작소)
+#### 참여 연구자 (키즈 메이커 스튜디오)
  * 박영희 <pyh0610@naver.com>
  * 김주미 <o_ovzzz@naver.com>
 
