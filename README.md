@@ -38,11 +38,11 @@
  
 ## 워크숍 연구자
 
-### 연구 책임자 (PROTOROOM)
+#### 연구 책임자 (PROTOROOM)
  * 김승범 SeungBum Kim <picxenk@gmail.com>
  * 후니다 킴 Hoonida Kim <hoonida@gmail.com>
 
-### 연구 참여 (무한상상실 뚝딱공작소)
+#### 연구 참여 (무한상상실 뚝딱공작소)
  * 박영희
  * 김주미
 
