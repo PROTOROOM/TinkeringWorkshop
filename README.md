@@ -34,6 +34,15 @@
   * 저장소를 클론(clone)하여 [라이선스](pages/license.md) 하에 자유롭게 이용할 수 있습니다. 
   * 저장소를 포킹(fork)하여 이 프로젝트의 개발에 기여할 수 있습니다. 
  * 웹페이지는 저장소의 master 브랜치 내용을 gh-pages 브랜치로 업데이트하여 서비스되고 있습니다. Github의 페이지 사용법은 [Github Pages](https://pages.github.com/)를 참고해주세요.
+
  
- 
+## 워크숍 연구자
+
+### 연구 책임자 (PROTOROOM)
+ * 김승범 SeungBum Kim <picxenk@gmail.com>
+ * 후니다 킴 Hoonida Kim <hoonida@gmail.com>
+
+### 연구 참여 (무한상상실 뚝딱공작소)
+ * 박영희
+ * 김주미
 
