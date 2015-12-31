@@ -10,6 +10,7 @@
 
 
 ## 재료 / Materials
+![Material Image](images/balloon_rocket_m.png)
 
  * 풍선
  * 종이컵

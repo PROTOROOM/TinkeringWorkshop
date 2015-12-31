@@ -10,6 +10,8 @@ DC모터애니는 자석과 코일로 회전 딱풀 운동을 합니다. 이를 
 
 
 ## 재료 Materials
+![Material Image](images/motor_ani_m.png)
+
  * 본체모듈 (3D 모델 파일 내려받기)
  * 단선 (24AWG)
  * 자석

@@ -10,6 +10,7 @@
 
 
 ## 재료 / Materials
+![Material Image](images/dotong_monster_m.png)
 
  * 도통 몬스터 PCB
  * 동테이프

@@ -12,7 +12,7 @@
 
 
 ## 재료 / Materials
-![Sketch Image](images/doridori_elec_m.png)
+![Material Image](images/doridori_elec_m.png)
 
  * 도리도리군 2개 (3D 설계 내려받기)
  * 허브 모듈 (3D 설계 내려받기, PCB 설계 내려받기)

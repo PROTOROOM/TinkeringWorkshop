@@ -10,6 +10,7 @@
 
 
 ## 재료 / Materials
+![Material Image](images/roly_poly_m.png)
 
  * 종이컵 / 플라스틱 컵
  * 커피 컵 뚜껑

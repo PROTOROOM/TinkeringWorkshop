@@ -10,6 +10,7 @@
 
 
 ## 재료 / Materials
+![Material Image](images/green_frog_hertz_m.png)
 
  * 청개구리칩
  * 미니브래드보드
