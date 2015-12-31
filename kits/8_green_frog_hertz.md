@@ -1,7 +1,7 @@
 # 청개구리 헤르츠군
 
 ## 이 워크숍은 / About
-![Sketch Image](images/blank.png)
+![Sketch Image](images/green_frog_hertz.png)
 
 ### [매뉴얼 내려받기](pdf/8_green_frog_hertz.pdf) 
 

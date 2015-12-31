@@ -1,7 +1,7 @@
 # DC모터애니
 
 ## 이 워크숍은 About
-![Sketch Image](images/blank.png)
+![Sketch Image](images/motor_ani_top.png)
 
 ### [매뉴얼 내려받기](pdf/5_motor_ani.pdf) 
 

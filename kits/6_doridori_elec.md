@@ -1,7 +1,7 @@
 # 도리도리 전기
 
 ## 이 워크숍은 / About
-![Sketch Image](images/blank.png)
+![Sketch Image](images/doridori_elec_top.png)
 
 ### [매뉴얼 내려받기](pdf/6_doridori_elec.pdf) 
 

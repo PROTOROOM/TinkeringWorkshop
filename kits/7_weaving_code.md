@@ -1,7 +1,7 @@
 # 암호로 말해요
 
 ## 이 워크숍은 / About
-![Sketch Image](images/blank.png)
+![Sketch Image](images/weaving_code_top.png)
 
 ### [매뉴얼 내려받기](pdf/7_weaving_code.pdf) 
 

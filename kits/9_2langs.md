@@ -1,7 +1,7 @@
 # 다른 언어 드로잉
 
 ## 이 워크숍은 / About
-![Sketch Image](images/blank.png)
+![Sketch Image](images/2langs_top.png)
 
 ### [매뉴얼 내려받기](pdf/9_2langs.pdf) 
 
