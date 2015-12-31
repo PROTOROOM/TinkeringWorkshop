@@ -42,7 +42,7 @@
  * 김승범 SeungBum Kim <picxenk@gmail.com>
  * 후니다 킴 Hoonida Kim <hoonida@gmail.com>
 
-#### 연구 참여 (무한상상실 뚝딱공작소)
- * 박영희
- * 김주미
+#### 참여 연구자 (무한상상실 뚝딱공작소)
+ * 박영희 <pyh0610@naver.com>
+ * 김주미 <o_ovzzz@naver.com>
 
