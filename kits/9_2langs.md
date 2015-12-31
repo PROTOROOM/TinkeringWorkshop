@@ -12,6 +12,7 @@
 ![Material Image](images/2langs_m.png)
 
  * 웹사이트 : http://2langs.protoroom.kr
+  * 소프트웨어 소스 저장소 : https://github.com/picxenk/TwoLangs
  * 인터넷 접속이 가능한 노트북 2인 1대
  * 최신 웹 기술을 지원하는 웹 브라우저 (예: 구글크롬)
  * A3 용지
