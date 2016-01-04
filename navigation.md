@@ -42,7 +42,7 @@
   * [청개구리 헤르츠군](kits/8_green_frog_hertz.md)
   * [다른 언어 드로잉](kits/9_2langs.md)  
 
-[라이선스](pages/license.md)
+[라이선스](license.md)
 
 <!-- A more complex navigation example: ----------------------------------------
 
