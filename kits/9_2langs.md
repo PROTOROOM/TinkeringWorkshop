@@ -1,6 +1,11 @@
 # 다른 언어 드로잉
 
 ## 이 워크숍은 / About
+ * 주제영역 : 컴퓨팅/SW
+ * 참가대상 : 초등 3년 ~ 성인
+ * 진행시간 : 60분 
+ * 키트종류 : 소프트웨어
+ 
 ![Sketch Image](images/2langs_top.png)
 
 ### [매뉴얼 내려받기](pdf/9_2langs.pdf) 

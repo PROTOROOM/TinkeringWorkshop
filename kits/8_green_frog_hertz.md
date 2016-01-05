@@ -1,6 +1,11 @@
 # 청개구리 헤르츠군
 
 ## 이 워크숍은 / About
+ * 주제영역 : 메이킹, 과학/전기, 컴퓨팅/HW
+ * 참가대상 : 초등 5년 ~ 성인
+ * 진행시간 : 60분 ~ 
+ * 키트종류 : 배포형/패키지
+ 
 ![Sketch Image](images/green_frog_hertz_top.png)
 
 ### [매뉴얼 내려받기](pdf/8_green_frog_hertz.pdf) 

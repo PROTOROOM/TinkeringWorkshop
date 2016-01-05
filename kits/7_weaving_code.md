@@ -1,6 +1,11 @@
 # 암호로 말해요
 
 ## 이 워크숍은 / About
+ * 주제영역 : 크래프트, 컴퓨팅/SW
+ * 참가대상 : 초등 3년 ~ 성인
+ * 진행시간 : 60분 ~ 
+ * 키트종류 : 배포형/패키지
+ 
 ![Sketch Image](images/weaving_code_top.png)
 
 ### [매뉴얼 내려받기](pdf/7_weaving_code.pdf) 
