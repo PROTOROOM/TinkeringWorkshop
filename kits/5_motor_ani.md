@@ -34,22 +34,27 @@ DC모터애니는 자석과 코일로 회전 딱풀 운동을 합니다. 이를 
 ### 단계 / Step 1
 딱풀을 이용해 그림처럼 단선을 6~8회 감아 코일을 만들어 봅시다. 단선의 양쪽 끝은 피복을 벗겨주세요.
 
+![Step Image](images/motor_ani_s1.png)
 
 ### 단계 / Step 2
 클립을 그림과 같이 구부려주세요.
 
+![Step Image](images/motor_ani_s2.png)
 
 ### 단계 / Step 3
 두 개의 구부린 클립을 본체의 상단 홈에 끼워주세요. 자석을 본체의 가운데 위치에 올려주세요.
 
+![Step Image](images/motor_ani_s3.png)
 
 ### 단계 / Step 4
 감은 코일을 그림과 같이 클립 위에 올려주세요. 양쪽 클립에 건전지의 양극과 음극을 각각 연결해주세요. 코일을 손으로 방향을 돌려 회전하는 방향을 찾아봅시다.
 
+![Step Image](images/motor_ani_s4.png)
 
 ### 변형 / Variation 1
 코일에 준비된 도안을 붙여 움직이는 그림을 만들어 보세요.
 
+![Step Image](images/motor_ani_v1.png)
 
 
 ## 회고 Reflection

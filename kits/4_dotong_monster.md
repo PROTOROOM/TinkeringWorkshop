@@ -34,20 +34,29 @@
 ### 단계 / Step 1
 도통몬스터 키트의 재료를 관찰해봅시다. 각 재료는 어떤 역할을 할지 상상해봅시다
 
+![Step Image](images/dotong_monster_s1.png)
+
 ### 단계 / Step 2
 도통몬스터 PCB를 관찰해봅시다. 어떤 특징이 있는지 이야기해봅시다.
+
+![Step Image](images/dotong_monster_s2.png)
 
 ### 단계 / Step 3
 도통몬스터의 눈인 LED를 연결해봅시다. LED는 모두 왼쪽이 +극입니다. 그리고 배터리를 꽂아주세요.
 
+![Step Image](images/dotong_monster_s3.png)
+
 ### 단계 / Step 4
 전기가 통하는 이빨 부분에 동테이프를 연결해봅시다. 어떤 방식으로 연결하면 눈에서 빛이 나는지 실험해봅시다.
+
+![Step Image](images/dotong_monster_s4.png)
 
 ### 단계 / Step 5
 전기 팔(동테이프)을 만들어보고, 그 사이에 일상의 사물들을 연결해봅시다.
 어떤 종류의 물체에서 도통몬스터의 눈에 빛이 나는지 알아봅시다. 
 다양한 종류의 저항을 연결해보고 빛의 밝기가 어떻게 변하는지 관찰해보세요.
 
+![Step Image](images/dotong_monster_s5.png)
 
 
 ## 회고 / Reflection
