@@ -32,23 +32,37 @@
 
 ### 단계 / Step 1
 
+![Step Image](images/green_frog_hertz_s1.png)
+
 ### 단계 / Step 2
+
+![Step Image](images/green_frog_hertz_s2.png)
 
 ### 단계 / Step 3
 
+![Step Image](images/green_frog_hertz_s3.png)
+
 ### 단계 / Step 4
+
+![Step Image](images/green_frog_hertz_s4.png)
 
 ### 단계 / Step 5
 
+![Step Image](images/green_frog_hertz_s5.png)
+
 ### 단계 / Step 6
 
+![Step Image](images/green_frog_hertz_s6.png)
 
 ### 변형 / Variation 1
 LED 대신 피에조 스피커로 교체해 봅시다.
 
+![Step Image](images/green_frog_hertz_v1.png)
+
 ### 변형 / Variation 2
 캐패시터의 종류를 교체해 봅시다. 어떤 변화가 생기는지 관찰해보세요.
 
+![Step Image](images/green_frog_hertz_v2.png)
 
 ## 회고 / Reflection
 
