@@ -22,6 +22,7 @@
  * **[라이선스](license.md)** : 팅커링워크숍의 사용 라이선스를 설명합니다.
 
 
+----
 ## Github과 저장소
 
  * 팅커링워크숍의 연구 과정과 결과물은 [Github의 TinkeringWorkshop저장소](https://github.com/PROTOROOM/TinkeringWorkshop)에서 관리 및 공개되고 있습니다. 
@@ -35,7 +36,8 @@
   * 저장소를 포킹(fork)하여 이 프로젝트의 개발에 기여할 수 있습니다. 
  * 웹페이지는 저장소의 master 브랜치 내용을 gh-pages 브랜치로 업데이트하여 서비스되고 있습니다. Github의 페이지 사용법은 [Github Pages](https://pages.github.com/)를 참고해주세요.
 
- 
+
+---- 
 ## 워크숍 연구자
 
 #### 연구 책임자 (PROTOROOM)
