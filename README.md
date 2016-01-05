@@ -1,7 +1,7 @@
 # 팅커링워크숍 : TinkeringWorkshop
 
 팅커링워크숍은 국립과천과학관 키즈 메이커 스튜디오(Kids Maker Studio)의 미디어 워크숍으로 
-구글의 지원을 받아 PROTOROOM과 무한상상실 뚝딱공작소가 연구/개발한 [오픈소스 워크숍 키트 및 콘텐츠](license.md)입니다.
+구글의 지원을 받아 PROTOROOM과 무한상상실 뚝딱뚝딱공작실이 연구/개발한 [오픈소스 워크숍 키트 및 콘텐츠](license.md)입니다.
 
 
 ## 키즈 메이커 스튜디오
@@ -22,6 +22,7 @@
  * **[라이선스](license.md)** : 팅커링워크숍의 사용 라이선스를 설명합니다.
 
 
+----
 ## Github과 저장소
 
  * 팅커링워크숍의 연구 과정과 결과물은 [Github의 TinkeringWorkshop저장소](https://github.com/PROTOROOM/TinkeringWorkshop)에서 관리 및 공개되고 있습니다. 
@@ -35,14 +36,15 @@
   * 저장소를 포킹(fork)하여 이 프로젝트의 개발에 기여할 수 있습니다. 
  * 웹페이지는 저장소의 master 브랜치 내용을 gh-pages 브랜치로 업데이트하여 서비스되고 있습니다. Github의 페이지 사용법은 [Github Pages](https://pages.github.com/)를 참고해주세요.
 
- 
+
+---- 
 ## 워크숍 연구자
 
 #### 연구 책임자 (PROTOROOM)
  * 김승범 SeungBum Kim
  * 후니다 킴 Hoonida Kim 
 
-#### 참여 연구자 (키즈 메이커 스튜디오)
+#### 참여 연구자 (키즈 메이커 스튜디오 / (구)뚝딱뚝딱공작실)
  * 박영희 
  * 김주미 
 

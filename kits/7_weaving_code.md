@@ -34,33 +34,44 @@
 ### 단계 / Step 1
 말하고 싶은 내용의 알파벳을 하나 고르고, 알파벳-숫자 코드표를 이용해 알파벳을 숫자로 바꿔 봅시다.
 
+![Step Image](images/weaving_code_s1.png)
+
 ### 단계 / Step 2
 0과 1의 색상를 정한 다음, 털실을 준비해 주세요.
-
-### 단계 / Step 3
 털실의 끝을 스카치테이프로 감으면 타공 펠트지에 끼우기가 편리해집니다.
 
-### 단계 / Step 4
+![Step Image](images/weaving_code_s2.png)
+
+### 단계 / Step 3
 0과 1의 숫자에 맞춰 털실을 타공 펠트지에 통과시켜 주세요.
+그리고 털실이 안 빠지도록 서로 묶어주고 끝을 잘라주세요.
 
-### 단계 / Step 5
-털실이 안 빠지도록 서로 묶어주고 끝을 잘라주세요.
+![Step Image](images/weaving_code_s3.png)
 
-### 단계 / Step 6
+### 단계 / Step 4
 암호를 포함한 채로 뱃지 모양을 만들어주세요.
 
-### 단계 / Step 7
+![Step Image](images/weaving_code_s4.png)
+
+### 단계 / Step 5
 타공되지 않은 펠트지에 펠트 접착제를 이용해 붙여주세요.
 
-### 단계 / Step 8
+![Step Image](images/weaving_code_s5.png)
+
+### 단계 / Step 6
 모양을 따라 자르고, 글루건으로 브로치용 핀을 뒤에 붙여 완성합니다.
+
+![Step Image](images/weaving_code_s6.png)
 
 ### 변형 / Variation 1
 두 글자 이상이 들어간 뱃지를 만들어 보세요.
 
+![Step Image](images/weaving_code_v1.png)
+
 ### 변형 / Variation 2
 메시지가 들어간 카드를 만들어보세요.
 
+![Step Image](images/weaving_code_v2.png)
 
 ## 회고 / Reflection
 

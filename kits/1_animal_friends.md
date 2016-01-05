@@ -32,16 +32,22 @@
 ### 단계 / Step 1
 골판지 위에 동물자를 대고 마음에 드는 신체부위를 골라 연필로 그려 봅시다.
 
+![Step Image](images/animal_friends_s1.png)
+
 ### 단계 / Step 2
 동물의 모든 신체부위를 그렸으면 가위로 오려 줍시다.
+
+![Step Image](images/animal_friends_s2.png)
 
 ### 단계 / Step 3
 각 부분을 결합시켜 입체로 만들어 주세요.
 
+![Step Image](images/animal_friends_s3.png)
+
 ### 변형 / Variation 1
 다른 동물들의 신체부위를 섞어서 자신이 상상하는 동물을 만들어 봅시다.
 
-
+![Step Image](images/animal_friends_v1.png)
 
 ## 회고 / Reflection
 
