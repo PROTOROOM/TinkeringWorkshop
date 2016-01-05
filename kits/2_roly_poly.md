@@ -32,21 +32,32 @@
 ### 단계 / Step 1
 클립에 털실을 묶어 커피 컵 돔 뚜껑에 붙인 다음 클립이 흔들리도록 합시다.
 
+![Step Image](images/roly_poly_s1.png)
+
 ### 단계 / Step 2
 클립이 멈추는 지점에서 클립을 컵 뚜껑에 붙이고, 같은 방법으로 털실이 묶인 클립을 하나 더 붙입니다.
+
+![Step Image](images/roly_poly_s2.png)
 
 ### 단계 / Step 3
 실끼리 만나는 지점에 구슬을 붙입니다.
 
+![Step Image](images/roly_poly_s3.png)
+
 ### 단계 / Step 4
 실과 클립을 떼어내고 플라스틱 컵을 뚜껑에 끼웁니다.
+
+![Step Image](images/roly_poly_s4.png)
 
 ### 단계 / Step 5
 오뚝이의 얼굴을 꾸며 봅시다.
 
+![Step Image](images/roly_poly_s5.png)
+
 ### 변형 / Variation 1
 구슬의 위치를 바꾸어 붙여보며 오뚝이 역할을 할 수 있는지 확인해봅시다.
 
+![Step Image](images/roly_poly_v1.png)
 
 ## 회고 / Reflection
  1. 무게중심은 왜 항상 가운데일까요?
