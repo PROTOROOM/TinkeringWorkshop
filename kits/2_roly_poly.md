@@ -1,6 +1,11 @@
 # 구슬 오뚝이
 
 ## 이 워크숍은 / About
+ * 주제영역 : 크래프트, 과학/물리
+ * 참가대상 : 5세이상 ~ 성인
+ * 진행시간 : 30분 ~ 
+ * 키트종류 : 배포형/기본재료
+  
 ![Sketch Image](images/roly_poly_top.png)
 
 ### [매뉴얼 내려받기](pdf/2_roly_poly.pdf) 

@@ -1,6 +1,11 @@
 # 도통 몬스터
 
 ## 이 워크숍은 / About
+ * 주제영역 : 메이킹, 과학/전기 
+ * 참가대상 : 초등 3년 ~ 성인
+ * 진행시간 : 30분 ~ 
+ * 키트종류 : 배포형/패키지
+ 
 ![Sketch Image](images/dotong_monster_top.png)
 
 ### [매뉴얼 내려받기](pdf/4_dotong_monster.pdf) 

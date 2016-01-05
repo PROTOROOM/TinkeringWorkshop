@@ -1,6 +1,11 @@
 # 숲속의 동물친구들
 
 ## 이 워크숍은 / About
+ * 주제영역 : 크래프트, 스토리텔링
+ * 참가대상 : 5세이상 ~ 성인
+ * 진행시간 : 30분 ~ 
+ * 키트종류 : 배포형/기본재료
+ 
 ![Sketch Image](images/animal_friends_top.png)
 
 ### [매뉴얼 내려받기](pdf/1_animal_friends.pdf)

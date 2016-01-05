@@ -1,6 +1,11 @@
 # 풍선 비행체
 
 ## 이 워크숍은 / About
+ * 주제영역 : 크래프트, 메이킹, 과학/물리
+ * 참가대상 : 초등 3년 ~ 성인
+ * 진행시간 : 60분 
+ * 키트종류 : 배포형/기본재료
+ 
 ![Sketch Image](images/balloon_rocket_top.png)
 
 ### [매뉴얼 내려받기](pdf/3_balloon_rocket.pdf) 
