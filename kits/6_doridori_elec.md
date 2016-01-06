@@ -3,7 +3,7 @@
 ## 이 워크숍은 / About
  * 주제영역 : 메이킹, 과학/전기
  * 참가대상 : 5세이상 ~ 성인
- * 진행시간 : 30분 ~ 
+ * 진행시간 : 15분 ~ 20분 
  * 키트종류 : 경험용
  
 ![Sketch Image](images/doridori_elec_top.png)
