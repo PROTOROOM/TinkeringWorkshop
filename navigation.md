@@ -23,7 +23,10 @@
 
 [프레임워크](pages/framework.md)
 
-[워크숍패턴](pages/patterns.md)  
+[워크숍패턴]()
+
+  * [케이스스터디](pages/casestudy.md)
+  * [워크숍 패턴언어](pages/patterns.md)  
 
 [워크숍&키트]()
 
